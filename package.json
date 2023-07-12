@@ -1,0 +1,13 @@
+{
+  "name": "@larmbox/nestjs-ts-transform-paths",
+  "version": "0.0.1",
+  "dependencies": {
+    "typescript-transform-paths": "^3.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "peerDependencies": {
+    "@nestjs/cli": ">=8.0.0"
+  }
+}
